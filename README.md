@@ -19,3 +19,5 @@ This is a collection of data set sources and csv files(for small datasets) on wh
 - Sensus 
 - SUDOKU
 - Wine Magezine Reviews
+- Horses and Humans
+- Rock Paper Scissors
