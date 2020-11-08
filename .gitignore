@@ -1,5 +1,7 @@
 *.csv
 *.zip
+*.gz
+
 
 *.jpg
 *.jpeg
